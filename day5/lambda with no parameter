@@ -1,0 +1,2 @@
+greet=lambda:"hello"
+print(greet())
